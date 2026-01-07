@@ -1,0 +1,10 @@
+*.pt 
+*.bin 
+__pycache__/ 
+.DS_Store 
+desktop.ini 
+sft_checkpoints/ 
+checkpoints/ 
+data/ 
+platinum_training_corpus.txt 
+my_gold_dataset.jsonl 

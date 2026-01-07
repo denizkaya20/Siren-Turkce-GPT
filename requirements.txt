@@ -1,0 +1,7 @@
+"torch" 
+"gradio" 
+"sentencepiece" 
+"huggingface_hub" 
+"datasets" 
+"numpy" 
+"tqdm" 
